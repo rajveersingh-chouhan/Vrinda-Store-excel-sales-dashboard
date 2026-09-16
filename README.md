@@ -48,11 +48,3 @@ The interactive dashboard includes:
 *Bottom Line Strategy:* To boost sales next year, Vrinda Store should focus marketing campaigns and promotional discount codes specifically toward Adult Women in Maharashtra, Karnataka, and UP, running ads primarily on Amazon, Flipkart, and Myntra ahead of spring peak buying periods.
 
 ---
-
-# How to Run This Project
-
-1. Download or clone this repository.
-2. Open the .xlsx file in Microsoft Excel 2016 or newer.
-3. Head over to the Vrinda Store Report tab to view the dashboard.
-4. Click around the Slicers on the left side to filter data across different months, channels, and product lines.
-
