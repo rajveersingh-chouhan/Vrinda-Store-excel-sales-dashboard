@@ -1,6 +1,6 @@
 # Vrinda Store Annual Sales Analysis (2025)
 
-A hands-on data analytics project built using Microsoft Excel. The goal of this project was to analyze Vrinda Store’s 2022 sales data to spot key customer trends, see which sales channels perform best, and figure out actionable ways to grow revenue in 2023.
+A hands-on data analytics project built using Microsoft Excel. The goal of this project was to analyze Vrinda Store’s 2025 sales data to spot key customer trends, see which sales channels perform best, and figure out actionable ways to grow revenue in 2025.
 
 ---
 
